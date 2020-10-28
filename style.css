@@ -1,0 +1,106 @@
+@media (max-width: 960px) {
+  .card-whitish {
+    width: 700px;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 720px) {
+  .card-whitish {
+    width: 500px;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 540px) {
+  .card-whitish {
+    width: 300px;
+    margin: 0 auto;
+  }
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #e7dec8;
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #30475e;
+}
+
+h1 {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+  color: #7e8a97;
+}
+
+h2, h3 {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 24px;
+  color: #7e8a97;
+}
+
+a {
+  text-decoration: none;
+  color: #30475e;
+  transition: 0.5s;
+}
+
+
+.card-whitish {
+  background-color: white;
+  margin-top: 24px;
+  box-shadow:  5px 5px 10px;
+  padding: 18px 32px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.card-whitish p {
+  padding: 16px 24px;
+}
+
+.center-links ul {
+  margin: 0;
+  padding: 0;
+}
+
+.center-links ul li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.center-links ul li a {
+  font-size: 30px;
+  color: #cbaf87;
+  transition: 0.5s;
+}
+
+.center-links ul li a:hover {
+  font-weight: bold;
+  color: #a4b787;
+}
+
+#profile img {
+  width: 160px;
+  border-radius: 50%;
+}
+
+.button-grey {
+  width: 200px;
+  margin: 40px auto 10px auto;
+  background-color: #7e8a97;
+  padding: 10px 5px;
+  border-radius: 8px;
+}
+
+.button-grey {
+  color: #cbaf87;
+  transition: 0.5s;
+}
+
+.button-grey:hover {
+  background-color:#a4b787;
+  font-weight: bold;
+  color: white;
+}
