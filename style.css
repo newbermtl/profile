@@ -23,27 +23,27 @@
 }
 
 body {
-  background-color: #e7dec8;
+  background-color: #f4f4f2;
   font-family: 'Noto Sans JP', sans-serif;
-  color: #30475e;
+  color: #bbbfca;
 }
 
 h1 {
   font-family: 'Fira Sans', sans-serif;
   font-size: 26px;
   font-weight: bold;
-  color: #7e8a97;
+  color: #495464;
 }
 
 h2, h3 {
   font-family: 'Fira Sans', sans-serif;
   font-size: 24px;
-  color: #7e8a97;
+  color: #495464;
 }
 
 a {
   text-decoration: none;
-  color: #30475e;
+  color: 495464;
   transition: 0.5s;
 }
 
@@ -72,13 +72,13 @@ a {
 }
 .center-links ul li a {
   font-size: 30px;
-  color: #cbaf87;
+  color: #495464;
   transition: 0.5s;
 }
 
 .center-links ul li a:hover {
   font-weight: bold;
-  color: #a4b787;
+  color: #bbbfca;
 }
 
 #profile img {
@@ -95,12 +95,12 @@ a {
 }
 
 .button-grey {
-  color: #cbaf87;
+  color: #495464;
   transition: 0.5s;
 }
 
 .button-grey:hover {
-  background-color:#a4b787;
+  background-color: #bbbfca;
   font-weight: bold;
   color: white;
 }
